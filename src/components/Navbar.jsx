@@ -14,7 +14,7 @@ export default function Navbar() {
           <div className="w-10 h-10 rounded-lg bg-white/20 flex items-center justify-center">
             <span className="font-bold">MA</span>
           </div>
-          <span className="text-lg md:text-2xl font-semibold">MA-Medical</span>
+          <span className="text-lg md:text-2xl font-semibold">MA-Medical-Store</span>
         </Link>
 
         <div className="hidden md:flex items-center gap-6">
